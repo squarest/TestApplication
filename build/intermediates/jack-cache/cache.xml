@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Chudofom/.android/build-cache/22ce58f10cff0a079a0bebcbb5ca8e8f787a71ab/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-33c3ee3f2d1d9a319ca5db0ba5b3a7e097e7917a.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/7b62a5756aadcdcf684983cd1143889ac924ab76/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-64fcf920f1bcd26a128b24d56141a76615d31fcb.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/f43d09eded99f4e61c03282e883277ac6d034331/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-0f235321f948367baaaa437227d4d19e4f0a0bc2.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/35eccce5791cbbfe94b32ec1f5079411ebd48479/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6f2eaea269463e2dad68dcee0dbc6e72beba831a.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/f43d09eded99f4e61c03282e883277ac6d034331/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-19394f9b8823d7f17ba5991bf8485c17da84fac5.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/db2aa5dc9eb9d28372b8008cae4a34c45c6a9522/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e18aaf0fabc7f74fba5ba4a2cd298a2f6559c19e.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/0039b7a0acc358bed1a8fbffeee72d60b78c2249/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-3b680440219ce4a15267882b7c48cd7f8db57b5d.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/0b311327e059d72568dd55c4194415986f1037cd/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2b4540a1a021b6c578663092aee6e969a823d931.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/7b62a5756aadcdcf684983cd1143889ac924ab76/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-74d175078f1fc0b4545692866598a1339be5ae8e.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/46a97462381d23764f6ef95d571c83ce883877c0/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e194cc7f33b48e78f856a4b2113d024bc9653044.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/0039b7a0acc358bed1a8fbffeee72d60b78c2249/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cb156a5dce20e42081497a8909827d357de31e92.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/Desktop/Kubik/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-24.2.1-1d668ad8775dc95f0be4c5c98487c9ff778abc70.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-1.1.6-f758fbc6a32eab42724a461ea6a5d70741e3121f.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/f4d18076d44d34e47fc530b1055f517b7a6a19bf/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cdfbfd25a6edf18f35c4d5919f298bcf6e90b26f.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/Desktop/Kubik/sdk/platforms/android-24/android.jar"
+        revision="25.0.0"
+        sha1="d49cc0972df7adf495d3ad3d0cf71c0ec517ace4">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-80f35ee9c7431d5da3b43b14ae0d33203596c4ef.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/6e2a9b8b5bb0256c623c4a13cd794d8ad4fcffb9/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-46f7487eaba4735681c9497fdc2cec9cd62138c2.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/6e2a9b8b5bb0256c623c4a13cd794d8ad4fcffb9/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f2f96760d435e7031f42839e662334a730703d06.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/f4d18076d44d34e47fc530b1055f517b7a6a19bf/output/jars/libs/internal_impl-24.2.1.jar"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-24.2.1-ea866f8008edb8a81f6da621d57c0cd2dd00b856.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/Desktop/Kubik/sdk/platforms/android-24/optional/org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="fb7023e781abb70ed1b0442eb611fbed295cae84">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-29eafc192d7e477ae307d278305a6c9dc922e667.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/Desktop/Kubik/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-ff3b9348dddb9a2d9d8f57a06b98f46209559405.jar" />
+    </item>
+    <item
+        jar="/Users/Chudofom/.android/build-cache/245e73bf7afeb36316496d05db7ef517d2f32e61/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Chudofom/TestApplication/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-206576d978492ff367df899b81715bd33386cf1c.jar" />
+    </item>
+
+</items>
